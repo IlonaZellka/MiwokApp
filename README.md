@@ -1,1 +1,1 @@
-# MiwokGoogleCourse
+# Miwok
