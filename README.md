@@ -1,4 +1,3 @@
-# Miwok
 ![](https://github.com/Zellka/MiwokApp/blob/master/PIC/MiwokApp.png)
 
 Application translated words and phrases from english to miwok language(miwok tribal language). Used in a Udacity course in the Beginning Android Nanodegree.
